@@ -28,3 +28,7 @@ Map to MITRE ATT&CK
 Map the identified threats to the corresponding tactics and techniques in the MITRE ATT&CK Framework. For each mapped technique, utilize the information found on the corresponding ATT&CK technique page, such as the description, procedure examples, mitigations, and detection strategies, to gain a deeper understanding of the threats and vulnerabilities in your system.
 
 Incorporating the framework in our threat modelling process ensures a comprehensive understanding of the potential security threats. It enables a better application of countermeasures to reduce the overall risk to your organization.
+
+
+####CYBER KILL CHAIN####
+
