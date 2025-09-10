@@ -155,4 +155,11 @@ image.png
 JUST ONE MITIGATION BREAKS THE CHAIN
 The defender has the advantage with the Cyber Kill Chain solution. All seven steps must be successful for a cyber-attack to occur. Remember there is no such thing as completely secure, only defendable
 
+****INDICATOR OF COMPROMISE****
+Indicators of Compromise (IOCs) are forensic artifacts that can identify potential intrusion or malicious activity within a system or network. These artifacts are the breadcrumbs left behind by threat actors that can alert security teams to a breach or ongoing attack. IOCs can vary in form, including data from network traffic, file properties, or system logs. By collecting and analyzing IOCs, security teams can detect and respond to incidents more effectively.
+
+IOCs are integral to cybersecurity because they enable defenders to identify malicious activity at an early stage and take preventative measures. Common types of IOCs include malicious IP addresses, domain names, file hashes, registry key changes, and suspicious file names.
+
+For example, if a system starts communicating with a known command-and-control (C2) server, the IP address of that server becomes an IOC that could be used to detect and stop the intrusion. Similarly, an unexpected change in the file system, such as the sudden presence of an unusual executable file, could signal a compromise.
+
 
